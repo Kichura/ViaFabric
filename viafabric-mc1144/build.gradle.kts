@@ -5,4 +5,6 @@ dependencies {
     modImplementation("net.fabricmc.fabric-api:fabric-api:0.28.5+1.14")
     modImplementation("io.github.prospector:modmenu:1.7.17+build.1")
     modImplementation("com.github.TinfoilMC:ClientCommands:1.1.0")
+
+    include("net.fabricmc.fabric-api:fabric-api-base:0.1.2+de26dc4942")
 }
